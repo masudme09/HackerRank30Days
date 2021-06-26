@@ -5,3 +5,10 @@ C:\Users\BJIT\source\repos\HackerRankProblems\HackerRankProblems\obj\Debug\Hacke
 C:\Users\BJIT\source\repos\HackerRankProblems\HackerRankProblems\obj\Debug\HackerRankProblems.csproj.CoreCompileInputs.cache
 C:\Users\BJIT\source\repos\HackerRankProblems\HackerRankProblems\obj\Debug\HackerRankProblems.exe
 C:\Users\BJIT\source\repos\HackerRankProblems\HackerRankProblems\obj\Debug\HackerRankProblems.pdb
+D:\HackerRank\HackerRank30Days\HackerRankProblems\HackerRankProblems\bin\Debug\HackerRankProblems.exe.config
+D:\HackerRank\HackerRank30Days\HackerRankProblems\HackerRankProblems\bin\Debug\HackerRankProblems.exe
+D:\HackerRank\HackerRank30Days\HackerRankProblems\HackerRankProblems\bin\Debug\HackerRankProblems.pdb
+D:\HackerRank\HackerRank30Days\HackerRankProblems\HackerRankProblems\obj\Debug\HackerRankProblems.csproj.AssemblyReference.cache
+D:\HackerRank\HackerRank30Days\HackerRankProblems\HackerRankProblems\obj\Debug\HackerRankProblems.csproj.CoreCompileInputs.cache
+D:\HackerRank\HackerRank30Days\HackerRankProblems\HackerRankProblems\obj\Debug\HackerRankProblems.exe
+D:\HackerRank\HackerRank30Days\HackerRankProblems\HackerRankProblems\obj\Debug\HackerRankProblems.pdb

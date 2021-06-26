@@ -11,7 +11,11 @@ namespace HackerRankProblems
         static void Main(string[] args)
         {
             //Day8 Dictionary Map            
-            Day8PhoneMap.output(Day8PhoneMap.namePhoneInput());
+            //Day8PhoneMap.output(Day8PhoneMap.namePhoneInput());
+
+            //Day 9: Recursion 3
+            Day9Recursion.input();
+
         }
     }
 }
