@@ -1,0 +1,7 @@
+C:\Users\BJIT\source\repos\HackerRankProblems\HackerRankProblems\bin\Debug\HackerRankProblems.exe.config
+C:\Users\BJIT\source\repos\HackerRankProblems\HackerRankProblems\bin\Debug\HackerRankProblems.exe
+C:\Users\BJIT\source\repos\HackerRankProblems\HackerRankProblems\bin\Debug\HackerRankProblems.pdb
+C:\Users\BJIT\source\repos\HackerRankProblems\HackerRankProblems\obj\Debug\HackerRankProblems.csproj.AssemblyReference.cache
+C:\Users\BJIT\source\repos\HackerRankProblems\HackerRankProblems\obj\Debug\HackerRankProblems.csproj.CoreCompileInputs.cache
+C:\Users\BJIT\source\repos\HackerRankProblems\HackerRankProblems\obj\Debug\HackerRankProblems.exe
+C:\Users\BJIT\source\repos\HackerRankProblems\HackerRankProblems\obj\Debug\HackerRankProblems.pdb
